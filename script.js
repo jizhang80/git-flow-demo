@@ -1,3 +1,3 @@
-function demo() {    
+function say() {    
     console.log('all');
 }
