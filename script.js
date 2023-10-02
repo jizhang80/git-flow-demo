@@ -1,3 +1,3 @@
 function say() {    
-    console.log('all');
+    console.log('anthony');
 }
